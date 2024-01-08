@@ -1,0 +1,108 @@
+<!--
+  ~ Copyright (C) 2023 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     https://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string name="app_name">Challenges</string>
+    <string name="challenge1">Push-ups</string>
+    <string name="challenge2">Squats</string>
+    <string name="challenge3">Plank</string>
+    <string name="challenge4">Lunges</string>
+    <string name="challenge5">Jumping Jacks</string>
+    <string name="challenge6">Burpees</string>
+    <string name="challenge7">Mountain Climbers</string>
+    <string name="challenge8">Bicycle Crunches</string>
+    <string name="challenge9">High Knees</string>
+    <string name="challenge10">Tricep Dips</string>
+    <string name="challenge11">Wall Sit</string>
+    <string name="challenge12">Russian Twists</string>
+    <string name="challenge13">Superman</string>
+    <string name="challenge14">Side Plank</string>
+    <string name="challenge15">Jump Rope</string>
+    <string name="challenge16">Leg Raises</string>
+    <string name="challenge17">Calf Raises</string>
+    <string name="challenge18">Shoulder Press</string>
+    <string name="challenge19">Box Jumps</string>
+    <string name="challenge20">Plank Jacks</string>
+    <string name="challenge21">Reverse Lunges</string>
+    <string name="challenge22">Dumbbell Rows</string>
+    <string name="challenge23">Hip Thrusts</string>
+    <string name="challenge24">Walking Lunges</string>
+    <string name="challenge25">Dumbbell Bicep Curls</string>
+    <string name="challenge26">Jumping Lunges</string>
+    <string name="challenge27">Seated Leg Press</string>
+    <string name="challenge28">Renegade Rows</string>
+    <string name="challenge29">Inchworms</string>
+    <string name="challenge30">Side Lunges</string>
+    <string name="explanation1">How to do it: Start in a plank position, lower your body by bending your elbows, and push back up.
+Benefits: Strengthens chest, shoulders, triceps, and core.</string>
+    <string name="explanation2">How to do it: Stand with feet shoulder-width apart, bend your knees, and lower your hips as if sitting back into a chair.
+Benefits: Targets legs, glutes, and improves lower body strength.</string>
+    <string name="explanation3">How to do it: Hold a push-up position with arms straight, engaging your core and keeping your body in a straight line.
+Benefits: Builds core strength and stability</string>
+    <string name="explanation4">How to do it: Step forward with one foot, lower your hips until both knees are bent at a 90-degree angle.
+Benefits: Works on leg muscles and improves balance.</string>
+    <string name="explanation5">How to do it: Start with feet together, jump while spreading arms and legs, then return to the starting position.
+Benefits: Boosts cardiovascular health and full-body coordination.</string>
+    <string name="explanation6">How to do it: From standing, drop into a squat, kick your feet back to a plank, perform a push-up, jump your feet back, and explosively jump up.
+Benefits: Full-body workout, improves cardiovascular endurance.</string>
+    <string name="explanation7">How to do it: Start in a plank, bring one knee towards your chest, then switch legs rapidly.
+Benefits: Engages core muscles and elevates heart rate.</string>
+    <string name="explanation8">How to do it: Lie on your back, lift your legs, and perform a bicycle pedal motion with your legs while alternating touching your elbow to the opposite knee.
+Benefits: Targets abdominal muscles and obliques.</string>
+    <string name="explanation9">How to do it: Run in place, lifting your knees as high as possible.
+Benefits: Enhances cardiovascular fitness and leg strength.</string>
+    <string name="explanation10">How to do it: Sit on a chair or bench, place hands on the edge, slide your hips off, and lower your body by bending your elbows.
+Benefits: Tones triceps and improves upper body strength.</string>
+    <string name="explanation11">How to do it: Lean against a wall, slide down until your knees are at a 90-degree angle, and hold.
+Benefits: Strengthens quadriceps, hamstrings, and glutes.</string>
+    <string name="explanation12">How to do it: Sit on the floor, lean back at a 45-degree angle, twist your torso, and touch the floor beside you with both hands.
+Benefits: Works on obliques and improves core strength.</string>
+    <string name="explanation13">How to do it: Lie on your stomach, lift your arms, chest, and legs off the ground simultaneously.
+Benefits: Strengthens lower back and improves posture.</string>
+    <string name="explanation14">How to do it: Lie on your side, prop yourself up on your elbow, and lift your hips, forming a straight line.
+Benefits: Targets core muscles, particularly obliques.</string>
+    <string name="explanation15">How to do it: Swing the jump rope over your head and jump over it as it comes down.
+Benefits: Excellent cardiovascular exercise and improves coordination.</string>
+    <string name="explanation16">How to do it: Lie on your back, lift your legs towards the ceiling, and lower them without touching the ground.
+Benefits: Targets lower abdominal muscles.</string>
+    <string name="explanation17">How to do it: Stand on the edge of a step, raise your heels, and then lower them below the step.
+Benefits: Strengthens calf muscles.</string>
+    <string name="explanation18">How to do it: Hold dumbbells at shoulder height, press them overhead, and lower them back to shoulder height.
+Benefits: Targets shoulder muscles and improves upper body strength.</string>
+    <string name="explanation19">How to do it: Jump onto a sturdy box or platform, then step back down and repeat.
+Benefits: Boosts leg strength and explosive power.</string>
+    <string name="explanation20">How to do it: From a plank position, jump your legs wide and then back together.
+Benefits: Engages core and improves cardiovascular fitness.</string>
+    <string name="explanation21">How to do it: Step backward with one foot, lower your hips until both knees are bent at a 90-degree angle.
+Benefits: Targets legs and glutes, improves balance.</string>
+    <string name="explanation22">How to do it: Bend at the waist, holding dumbbells in each hand, and row them towards your hips.
+Benefits: Strengthens the upper back and improves posture.</string>
+    <string name="explanation23">How to do it: Sit on the ground with a bench behind you, place your upper back on the bench, and thrust your hips towards the ceiling.
+Benefits: Activates glutes and improves hip strength.</string>
+    <string name="explanation24">How to do it: Take a step forward with each lunge, walking across the room.
+Benefits: Works on leg muscles, enhances balance and coordination.</string>
+    <string name="explanation25">How to do it: Hold dumbbells at your sides, curl them towards your shoulders, and lower them back down.
+Benefits: Targets biceps and improves arm strength.</string>
+    <string name="explanation26">How to do it: Jump and switch legs mid-air while performing lunges.
+Benefits: Combines cardio with leg strengthening.</string>
+    <string name="explanation27">How to do it: Sit on a leg press machine, push the platform away, and then bring it back towards you.
+Benefits: Targets quadriceps, hamstrings, and glutes.</string>
+    <string name="explanation28">How to do it: From a plank position with dumbbells in each hand, row one dumbbell towards your hip while stabilizing with the other arm.
+Benefits: Engages core and upper back muscles.</string>
+    <string name="explanation29">How to do it: Bend at the waist, walk your hands forward into a plank, and then walk them back towards your feet.
+Benefits: Improves flexibility and targets core and upper body.</string>
+    <string name="explanation30">How to do it: Step to the side with one foot, bend the knee, and lower your hips while keeping the other leg straight.
+Benefits: Targets inner and outer thighs, improves hip flexibility.</string>
+</resources>
